@@ -6,3 +6,4 @@
 /TxHandler.class
 /UTXO.class
 /UTXOPool.class
+/MaxFeeTxHandler.class
